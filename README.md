@@ -8,7 +8,7 @@ We’re a team of seasoned smart contract researchers committed to setting the s
 ## Contacts and profiles
 * 𝕏: [@Radcipher](https://x.com/radcipher)
 * E-mail: radcipher@outlook.com
-* Telegram : https://t.me/srr0111
+* Telegram : https://t.me/tony_radcipher
 
 
 
