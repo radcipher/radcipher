@@ -15,9 +15,20 @@ We’re a team of seasoned smart contract researchers committed to setting the s
 
 ## Our engagements
 ### Private Audits 
-|    | **Protocol**                                                                                                                                                                         |                              Type                               | Findings |                        Report                        |     Date      |
-|:--:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|:--------:|:----------------------------------------------------:|:-------------:|
-| 01 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1934337561759260672/JE-g6x9P_400x400.jpg" height="20"><br><a href="https://hermesaianalyzer.com/">Hermes AI</a></p> | Decentralized, community-first investment intelligence protocol | 2 L  | [Report](reports/private-audits/pdf/2025-06-30-HermesAi-Audit-Report.pdf) | June 2025 |
+|    | **Protocol**                                                                                                                                                                             |                              Type                               |   Findings    |                                  Report                                   |     Date      |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|:-------------:|:-------------------------------------------------------------------------:|:-------------:|
+| 01 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1934337561759260672/JE-g6x9P_400x400.jpg" height="20"><br><a href="https://hermesaianalyzer.com/">Hermes AI</a></p>     | Decentralized, community-first investment intelligence protocol |      2 L      | [Report](reports/private-audits/pdf/2025-06-30-HermesAi-Audit-Report.pdf) | June 2025 |
+| 02 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1927284140602228737/-JFdo200_400x400.jpg" height="20"><br><a href="https://www.towerpad.org//">TowerPad</a></p>         | AI-DEX Aggregator | 3 H, 2 M, 3 L |                            Report coming soon                             | June 2025 |
+| 03 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1743929445398761472/XvHPG6Xd_400x400.jpg" height="20"><br><a href="https://t.co/mCI2gTfUIX">Bixos Incorporation</a></p> | Real Estate Marketplace |  |                            Report coming soon                             | June 2025 |
+
+### KYC
+|    | **Protocol**                                                                                                                                                                             |                              Type                               |                                  Report                                   |     Date      |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-------------:|
+| 01 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1934337561759260672/JE-g6x9P_400x400.jpg" height="20"><br><a href="https://hermesaianalyzer.com/">Hermes AI</a></p>     | Decentralized, community-first investment intelligence protocol | [Report](reports/kyc/2025-06-28-HermesAI-KYC.pdf) | June 2025 |
+| 02 | <p align="center"><img src="https://pbs.twimg.com/profile_images/1927284140602228737/-JFdo200_400x400.jpg" height="20"><br><a href="https://www.towerpad.org//">TowerPad</a></p>         | AI-DEX Aggregator                                               |                            Report coming soon                             | June 2025 |
+
+
+
 ### Public Competitions
 
 |    | **Protocol**                                                                                                                                   |                                                  Type                                                   | Findings |                        Report                        |     Date      |
