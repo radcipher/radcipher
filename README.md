@@ -3,7 +3,7 @@
 # Radcipher Portfolio
 
 ## About us
-We’re a team of seasoned smart contract researchers committed to setting the standard in blockchain security. With multiple top-tier finishes on Code4rena, CodeHawks, Cantina, Sherlock and a proven track record of identifying high, medium and low -severity vulnerabilities across 20+ audits, we aim to lead the space through precision, expertise, and impact.
+We’re a team of seasoned smart contract researchers committed to setting the standard in blockchain security. With multiple top-tier finishes on Code4rena, CodeHawks, Cantina, Sherlock and a proven track record of identifying high, medium and low -severity vulnerabilities across 20+ audits, we aim to lead the space through precision, expertise,and impact.
 
 ## Contacts and profiles
 * 𝕏: [@Radcipher](https://x.com/radcipher)
